@@ -13,6 +13,34 @@ var questions = [{
 	"option4": "Megaframe",
 	"answer": "3"
 }, {
+	"question": "What are programs that tell the computer what to do ?",
+	"option1": "hardware",
+	"option2": "cartridges",
+	"option3": "software",
+	"option4": "printers",
+	"answer": "3"
+}, {
+	"question": "When a meeting is conducted over communication lines on a TV-like device it is called: ?",
+	"option1": "telecommuting",
+	"option2": "electronic mail",
+	"option3": "teleconferencing",
+	"option4": "telemarketing",
+	"answer": "3"
+}, {
+	"question": "The arithmetic/logic unit of the computer: ?",
+	"option1": "can compare numbers",
+	"option2": "can add numbers",
+	"option3": "is part of the central processing unit",
+	"option4": "all of the above",
+	"answer": "4"
+}, {
+	"question": "To work with pictures or charts you use which productivity tool ?",
+	"option1": "Spreadsheet",
+	"option2": "Graphics",
+	"option3": "Database",
+	"option4": "Word processor",
+	"answer": "2"
+}, {
 	"question": "which is a single integrated circuit ?",
 	"option1": "Gate",
 	"option2": "Mother Board",
